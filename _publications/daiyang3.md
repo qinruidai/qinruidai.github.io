@@ -1,17 +1,26 @@
 ---
-title: "Two-parameter bifurcations analysis of a
-delayed high-temperature superconducting
-maglev model with guidance force"
+title: "Dynamical Analysis of a Melanoma Model with Immune Response"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'A modified high-temperature superconducting maglev model is studied in this paper, mainly considering the influence of time delay on the dynamic properties of the system.'
-date: 2022-8-22
-venue: 'Chaos'
-slidesurl: 'http://qinruidai.github.io/files/Chaos.pdf'
-paperurl: 'http://qinruidai.github.io/files/Chaos.pdf'
-bibtexurl: 'http://qinruidai.github.io/files/Chaos.bib'
-citation: 'Qinrui Dai. (2022). &quot;Two-parameter bifurcations analysis of a
-delayed high-temperature superconducting maglev model with guidance force.&quot; <i>Chaos</i>. 32, 083128.'
+permalink: /publication/daiyang3
+excerpt: 'In this paper, we studied the dynamic properties of a melanoma model with immune response. We
+analyzed the activation rate of CD8+T cells and the initial number of melanoma cells in patients
+with melanoma to study the final development of the disease.'
+date: 2022-4-22
+venue: 'International Journal of Bifurcation and Chaos'
+slidesurl: 'http://qinruidai.github.io/files/Bifurcation_Chaos.pdf'
+paperurl: 'http://qinruidai.github.io/files/Bifurcation_Chaos.pdf'
+bibtexurl: 'http://qinruidai.github.io/files/Bifurcation_Chaos.bib'
+citation: 'Qinrui Dai, Daifeng Duan, Yuxiao Guo. (2022). &quot;Dynamical Analysis of a Melanoma Model
+with Immune Response.&quot; <i>International Journal of Bifurcation and Chaos</i>. 32(9), 2250129.'
 ---
-A modified high-temperature superconducting maglev model is studied in this paper, mainly considering the influence of time delay on the dynamic properties of the system. For the original model without time delay, there are periodic equilibrium points. We investigate its stability and Hopf bifurcation and study the bifurcation properties by using the center manifold theorem and the normal form theory. For the delayed model, we mainly study the co-dimension two bifurcations (Bautin and Hopf–Hopf bifurcations) of the system. Specifically, we prove the existence of Bautin bifurcation and calculate the normal form of Hopf–Hopf bifurcation through the bifurcation theory of functional differential equations. Finally, we numerically simulate the abundant dynamic phenomena of the system. The two-parameter bifurcation diagram in the delayed model is given directly. Based on this, some nontrivial phenomena of the system, such as periodic coexistence and multistability, are well presented. Compared with the original ordinary differential equation system, the introduction of time delay makes the system appear chaotic behavior, and with the increase in delay, the variation law between displacement and velocity becomes more complex, which provides further insights into the dynamics of the high-temperature superconducting maglev model.
+In this paper, we study the stability and bifurcation behavior of a three-dimensional melanoma
+model with immune response. The system has at least one and at most three positive equilibria. It
+is proved that the system undergoes Hopf bifurcation and saddle-node bifurcation at the positive
+equilibrium. We investigate the direction of Hopf bifurcation and stability of the bifurcating
+periodic solution by center manifold theorem and normal form theory. Moreover, codimension
+two bifurcations of the system are analyzed. We demonstrate the existence of Bautin bifurcation
+and Bogdanov–Takens bifurcation of the system. The normal form of Bautin bifurcation and
+Bogdanov–Takens bifurcation are given. Finally, some numerical simulations are demonstrated
+to support our theoretical results, and the importance of some parameters of the system is
+discussed, in particular the activation rate of CD8+T cells.
