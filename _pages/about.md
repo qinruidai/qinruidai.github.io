@@ -7,10 +7,19 @@ redirect_from:
   - /about.html
 ---
 
+Brief Introduction
+======
+My interests mainly focus on differential equations and dynamical systems, complex networks, and complex systems. Currently, I have published several papers as the first author and corresponding author, including Neural Networks, Chaos, Chaos, Solitaons&Fractals, Nonlinear Dynamics, IJBC, PRE, and other well-known journals in nonlinear systems and mathematics
+
 
 Research interests
 ======
-My interests mainly focus on differential equations and dynamical systems, complex networks, and complex systems. Currently, I have published several papers as the first author and corresponding author, including Neural Networks, Chaos, Chaos, Solitaons&Fractals, Nonlinear Dynamics, IJBC, PRE, and other well-known journals in nonlinear systems and mathematics
+* Differential Equations
+* Complex Networks
+* Neural Networks
+* Bifurcation, synchronization, stability
+
+
 
 Published articles
 ======
