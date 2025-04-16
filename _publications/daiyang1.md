@@ -1,17 +1,24 @@
 ---
-title: "Two-parameter bifurcations analysis of a
-delayed high-temperature superconducting
-maglev model with guidance force"
+title: "Exploration of bifurcation and stability in a class of fractional-order
+super-double-ring neural network with two shared neurons and multiple delays"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'A modified high-temperature superconducting maglev model is studied in this paper, mainly considering the influence of time delay on the dynamic properties of the system.'
-date: 2022-8-22
-venue: 'Chaos'
-slidesurl: 'http://qinruidai.github.io/files/Chaos.pdf'
-paperurl: 'http://qinruidai.github.io/files/Chaos.pdf'
-bibtexurl: 'http://qinruidai.github.io/files/Chaos.bib'
-citation: 'Qinrui Dai. (2022). &quot;Two-parameter bifurcations analysis of a
-delayed high-temperature superconducting maglev model with guidance force.&quot; <i>Chaos</i>. 32, 083128.'
+permalink: /publication/daiyang1
+excerpt: 'In this paper, we propose a double-ring neural network model with two shared neurons and multiple delays, in which both unidirectional and bidirectional connection are considered.'
+date: 2023-1-22
+venue: 'Chaos, Solitons and Fractals'
+slidesurl: 'http://qinruidai.github.io/files/Chaos_Solitons_Fractals.pdf'
+paperurl: 'http://qinruidai.github.io/files/Chaos_Solitons_Fractals.pdf'
+bibtexurl: 'http://qinruidai.github.io/files/Chaos_Solitons_Fractals.bib'
+citation: 'Qinrui Dai. (2023). &quot;Exploration of bifurcation and stability in a class of fractional-order
+super-double-ring neural network with two shared neurons and multiple delays.&quot; <i>Chaos, Solitons and Fractals</i>. 168, 113185.'
 ---
-A modified high-temperature superconducting maglev model is studied in this paper, mainly considering the influence of time delay on the dynamic properties of the system. For the original model without time delay, there are periodic equilibrium points. We investigate its stability and Hopf bifurcation and study the bifurcation properties by using the center manifold theorem and the normal form theory. For the delayed model, we mainly study the co-dimension two bifurcations (Bautin and Hopf–Hopf bifurcations) of the system. Specifically, we prove the existence of Bautin bifurcation and calculate the normal form of Hopf–Hopf bifurcation through the bifurcation theory of functional differential equations. Finally, we numerically simulate the abundant dynamic phenomena of the system. The two-parameter bifurcation diagram in the delayed model is given directly. Based on this, some nontrivial phenomena of the system, such as periodic coexistence and multistability, are well presented. Compared with the original ordinary differential equation system, the introduction of time delay makes the system appear chaotic behavior, and with the increase in delay, the variation law between displacement and velocity becomes more complex, which provides further insights into the dynamics of the high-temperature superconducting maglev model.
+Complex multi-ring coupling structures are common in real-world networks. However, the current work is
+mainly limited to unidirectional multi-ring or those sharing a neuron. This paper is devoted to the stability and
+Hopf bifurcation of a class of double-ring neural network with two shared neurons and multiple time delays,
+where 𝑛 and 𝑚 neurons are distributed on the double-ring, respectively. First, we obtain the characteristic
+equation of the network at the trivial equilibrium point by using the Coates flow graph method. Then, based
+on this, some sufficient conditions for the stability and Hopf bifurcation of the double-ring network under two
+connection modes are given. Finally, we provide some numerical examples to illustrate the validness of the
+theoretical results, and the influences of fractional order, network size and the distance between two shared
+neurons on Hopf bifurcation are also discussed.
