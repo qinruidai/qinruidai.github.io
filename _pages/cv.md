@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics, Wuhan University, 2025 (expected)
+* M.S. in Applied Mathematics, Harbin Institute of Technology, 2021
+* B.S. in Information and Computing Science, Wuhan University of Technology, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* July 2021- December 2023: Teaching assistant, Lecturer
+  * Wuhan Huaxia Institute of Technology
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* December 2023- December 2024: Visiting Student
+  * The University of Tokyo
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
