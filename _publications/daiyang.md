@@ -1,17 +1,19 @@
 ---
-title: "Two-parameter bifurcations analysis of a
-delayed high-temperature superconducting
-maglev model with guidance force"
+title: "Coexisting multi-period and chaotic attractor in fully
+connected system via adaptive multi-body interaction control"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'A modified high-temperature superconducting maglev model is studied in this paper, mainly considering the influence of time delay on the dynamic properties of the system.'
-date: 2022-8-22
-venue: 'Chaos'
-slidesurl: 'http://qinruidai.github.io/files/Chaos.pdf'
-paperurl: 'http://qinruidai.github.io/files/Chaos.pdf'
-bibtexurl: 'http://qinruidai.github.io/files/Chaos.bib'
-citation: 'Qinrui Dai. (2022). &quot;Two-parameter bifurcations analysis of a
-delayed high-temperature superconducting maglev model with guidance force.&quot; <i>Chaos</i>. 32, 083128.'
+permalink: /publication/daiyang
+excerpt: 'This paper proposes an adaptive multi-body interactive feedback controller for fully connected system, and
+observes the complex coexistence phenomenon (up to seven states) in the controlled neural network model.'
+date: 2023-11-22
+venue: 'Nonlinear Dynamics'
+slidesurl: 'http://qinruidai.github.io/files/Nonlinear_Dynamics.pdf'
+paperurl: 'http://qinruidai.github.io/files/Nonlinear_Dynamics.pdf'
+bibtexurl: 'http://qinruidai.github.io/files/Nonlinear_Dynamics.bib'
+citation: 'Qinrui Dai. (2023). &quot;Coexisting multi-period and chaotic attractor in fully
+connected system via adaptive multi-body interaction control.&quot; <i>Nonlinear Dynamics</i>. 112:681–692.'
 ---
-A modified high-temperature superconducting maglev model is studied in this paper, mainly considering the influence of time delay on the dynamic properties of the system. For the original model without time delay, there are periodic equilibrium points. We investigate its stability and Hopf bifurcation and study the bifurcation properties by using the center manifold theorem and the normal form theory. For the delayed model, we mainly study the co-dimension two bifurcations (Bautin and Hopf–Hopf bifurcations) of the system. Specifically, we prove the existence of Bautin bifurcation and calculate the normal form of Hopf–Hopf bifurcation through the bifurcation theory of functional differential equations. Finally, we numerically simulate the abundant dynamic phenomena of the system. The two-parameter bifurcation diagram in the delayed model is given directly. Based on this, some nontrivial phenomena of the system, such as periodic coexistence and multistability, are well presented. Compared with the original ordinary differential equation system, the introduction of time delay makes the system appear chaotic behavior, and with the increase in delay, the variation law between displacement and velocity becomes more complex, which provides further insights into the dynamics of the high-temperature superconducting maglev model.
+Multi-body interaction has been proved to exist widely in the real world. To verify the influence
+of multi-body interactive feedback on the dynamics of system, a novel adaptive time-delay multi-body interaction control is proposed in this work. The global stability and local bifurcation of the controlled system are investigated. Applying the controller to ternary and quaternary neural network models, we find that there are complex dynamical phenomena in the controlled networks. When the time delay is small, only a single asymptotically stable solution is observed. With
+the increase in the time delay, the system undergoes a periodic solution induced by Hopf bifurcation. However, with further increase in the time delay, multiperiodic solutions and multiple chaotic attractors coexist near the equilibrium point. Compared with the traditional controller, the adaptive multi-body feedback controller can make the neural network system without non-trivial phenomenon enable complex coexistence phenomenon, only by controlling one neuron node.
