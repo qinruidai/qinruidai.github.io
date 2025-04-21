@@ -3,7 +3,7 @@ title: "Supplementary Material of 'Uncover the relation between consensus and to
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is a Supplementary Material of a published article.'
+excerpt: 'This file is a Supplementary Material of a published article.'
 date: 2025-04-16
 venue: 'IEEE Transactions on Automatic Control'
 slidesurl: 'http://qinruidai.github.io/files/Supplementary_Materials.pdf'
