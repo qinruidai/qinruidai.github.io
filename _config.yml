@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Qinrui Dai / Ph.D Student"
+title                    : "Qinrui Dai / Lecturer"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,11 +25,11 @@ author:
   avatar           : "dai1.png"
   name             : "Qinrui Dai"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D Candidate in Complex Network at Wuhan University"
+  bio              : "Lecturer in Complex Network at Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         : "Wuhan University"
   uri              : # URL
-  email            : "daiqinrui@whu.edu.cn" 
+  email            : "daiqinrui@whu.edu.cn/daiqinrui@hust.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
